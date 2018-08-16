@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: cache-locator
+
+# spring.data.gemfire.locator.host: localhost
+# spring.data.gemfire.locator.port: 10334

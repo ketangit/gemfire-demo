@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.externalToolBuilders/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+.idea/misc.xml
+
+*.dat
+*.log
