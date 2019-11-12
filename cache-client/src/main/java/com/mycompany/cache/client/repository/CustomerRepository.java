@@ -1,6 +1,6 @@
-package com.mycompany.cache.server.repository;
+package com.mycompany.cache.client.repository;
 
-import com.mycompany.cache.server.model.Customer;
+import com.mycompany.cache.client.model.Customer;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
 

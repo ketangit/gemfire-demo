@@ -12,3 +12,5 @@
 ### Steps to run this project locally
 
 ### Credit / Prior Art
+
+https://docs.spring.io/spring-boot-data-geode-build/1.2.x/reference/html5/

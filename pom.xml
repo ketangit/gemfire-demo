@@ -10,7 +10,6 @@
 
     <modules>
         <module>cache-client</module>
-        <module>cache-locator</module>
         <module>cache-server</module>
     </modules>
 </project>

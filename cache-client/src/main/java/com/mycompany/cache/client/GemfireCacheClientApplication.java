@@ -8,7 +8,6 @@ import org.springframework.data.gemfire.config.annotation.ClientCacheApplication
 @SpringBootApplication
 @ClientCacheApplication
 public class GemfireCacheClientApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(GemfireCacheClientApplication.class, args);
     }
